@@ -1,0 +1,28 @@
+# Site settings
+title: Machine Learning Dublin
+description: 'Machine Learning Interest Group for Dublin, Ireland'
+url: 'http://mldublin.github.io' 
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+
+author:
+  name: "Alexander O'Connor"
+  email: collaboration@adaptcentre.ie
+  twitter_username: adaptcentre 
+  github_username:  MLDublin
+#  linkedin_username:  
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
