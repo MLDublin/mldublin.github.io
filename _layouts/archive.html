@@ -1,0 +1,21 @@
+---
+layout: page
+title: Archive
+---
+
+{% if page.title %}
+    <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
+{% else %}
+    <h1>Archive of posts from {{ page.date | date: "%Y" }}</h1>
+{% endif %}
+
+<section class="list">
+	{% if page.posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% else %}
+		{% for post in page.posts %}
+			{% include blog-post.html %}
+		{% endfor %}
+	{% endif %}
+</section>
+
