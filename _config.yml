@@ -19,7 +19,7 @@ url: https://mldublin.github.io
 logo-url: https://meetup.com/Machine-Learning-Dublin
 # your url: http://USERNAME.github.io
 
-permalink: /:year/:title/
+permalink: /events/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'

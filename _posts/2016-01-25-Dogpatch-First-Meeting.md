@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "First Meeting at Dogpatch Labs"
+title:  "#1: First Meeting at Dogpatch Labs"
 date:   2016-01-25 16:00
 categories: meeting report
-tags: [[MLDublin]]
+tags: [["2016"]]
 ---
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Happy to support the Machine Learning Meetup last night down in the Vaults <a href="https://twitter.com/hashtag/MLDublin?src=hash">#MLDublin</a> <a href="https://twitter.com/artucalvo">@artucalvo</a> <a href="https://twitter.com/dogpatchlabs">@dogpatchlabs</a> <a href="https://t.co/V3YzZp0LaR">pic.twitter.com/V3YzZp0LaR</a></p>&mdash; @dogpatchlabs (@dogpatchlabs) <a href="https://twitter.com/dogpatchlabs/status/692008688794607617">January 26, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
