@@ -16,7 +16,7 @@ resume-external: true
 resume-url: https://adaptcentre.ie
 
 url: https://mldublin.github.io
-logo-url: https://meetup.com/Machine-Learning-Dublin
+logo-url: / # https://meetup.com/Machine-Learning-Dublin
 # your url: http://USERNAME.github.io
 
 permalink: /events/:title/
