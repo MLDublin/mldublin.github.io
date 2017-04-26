@@ -26,4 +26,8 @@ A scalable clustering algorithm designed with search technologies
 
 ## Ahmed Abdelkader | Research Engineer, Design & Innovation Lab, ADAPT
 
+Multimodal Deep Learning
+
 > Deep Learning has been successfully applied to different problems with single modality. In this talk, Ahmed will talk about what multimodal learning is, what are the challenges associated with it, and some examples of how we can apply multimodal learning.
+
+ - [slides](/assets/slides/meetup_14/multimodal_deep_learning_updated.pdf)
