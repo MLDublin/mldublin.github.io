@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "#13: MLDublin meets Accenture @ The Dock "
+title: "#12: MLDublin meets Accenture @ The Dock "
 date: 2017-03-27 12:00
 categories: meeting report
 tags: [["2017"]]
 ---
 
-# Meetup #13: Accenture at The Dock
+# Meetup #12: Accenture at The Dock
 
 We were excited and grateful to be hosted by Accenture at The Dock.
 Talks from: Mick Cooney, Atul Nautiyal, Scott Nowson.
@@ -23,7 +23,7 @@ Overfitting and Dropout
 
 > In this talk Atul will be explaining about Overfitting and how it can be handled especially using Dropout
 
-[slides](/assets/slides/meetup_13/overfitting_dropout_atul.pdf)
+[slides](/assets/slides/meetup_12/overfitting_dropout_atul.pdf)
 
 ## Scott Nowson | Consumer Analytics and AI Manager at Accenture The Dock
 
@@ -31,4 +31,4 @@ Helping computers understand us: Machine learning for personality trait recognit
 
 > Understanding who we are, and not just what we like, is key to enabling truly personalised services and experiences. This talk will present the application of machine learning techniques to the task of recognising an individual’s personality traits
 
-[slides](/assets/slides/meetup_13/Nowson_MLMeetup_Dublin20170327_v3_static.pdf)
+[slides](/assets/slides/meetup_12/Nowson_MLMeetup_Dublin20170327_v3_static.pdf)

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "#9: MLDublin meets Brite:Bill @ DogPath Labs Sciences Institute,"
+title: "#8: MLDublin meets Brite:Bill @ DogPath Labs Sciences Institute,"
 date: 2016-10-24 12:00
 categories: meeting report
 tags: [["2016"]]
 ---
 
-# Meetup #9: Brite:Bill at DogPath Labs
+# Meetup #8: Brite:Bill at DogPath Labs
 
 Sponsored by Brite:Bill in DogPath Labs with: Humberto Corona, Fergus Cooney, Gavin Guinane
 
@@ -14,7 +14,7 @@ Sponsored by Brite:Bill in DogPath Labs with: Humberto Corona, Fergus Cooney, Ga
 
 Evaluating Recommender Systems - Accuracy and Beyond
 
- - [slides](/assets/slides/meetup_9/2016-ML-Meetup.pdf)
+ - [slides](/assets/slides/meetup_8/2016-ML-Meetup.pdf)
 
 ## Gavin Guinane | Master Enterprise Architect, SalesForce
 
