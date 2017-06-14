@@ -10,7 +10,7 @@ tags: [["2017"]]
 
 We were delighted to have talks from: Ernesto Diaz-Aviles, Debasis Ganguly, Ahmed Abdelkader.
 
-## Ernesto Diaz-Aviles | Chief Data Scientist and VP, Citi Innovation Lab
+## Ernesto Diaz-Aviles | Founder and Chief Scientist, LibreAI Labs
 
 Deep Learning for Recommender Systems
 
