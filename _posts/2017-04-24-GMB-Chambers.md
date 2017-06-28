@@ -6,8 +6,6 @@ categories: meeting report
 tags: [["2017"]]
 ---
 
-# Meetup #13: Trinity College Dublin, GMB Debating Chamber
-
 We were delighted to have talks from: Ernesto Diaz-Aviles, Debasis Ganguly, Ahmed Abdelkader.
 
 ## Ernesto Diaz-Aviles | Founder and Chief Scientist, LibreAI Labs

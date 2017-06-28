@@ -6,8 +6,6 @@ categories: meeting report
 tags: [["2017"]]
 ---
 
-# Meetup #11: ADAPT at DogPath Labs
-
 We were thrilled to be back at DogPatch labs.
 Joined by: Deirdre Hogan, Majid Yazdani, Ahmed Selim, Chris Hokamp.
 

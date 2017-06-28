@@ -6,8 +6,6 @@ categories: meeting report
 tags: [["2016"]]
 ---
 
-# Meetup #8: Brite:Bill at DogPath Labs
-
 Sponsored by Brite:Bill in DogPath Labs with: Humberto Corona, Fergus Cooney, Gavin Guinane
 
 ## Humberto Corona | Data Scientist, Zalando

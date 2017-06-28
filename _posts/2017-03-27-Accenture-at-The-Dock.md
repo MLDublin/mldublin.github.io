@@ -6,8 +6,6 @@ categories: meeting report
 tags: [["2017"]]
 ---
 
-# Meetup #12: Accenture at The Dock
-
 We were excited and grateful to be hosted by Accenture at The Dock.
 Talks from: Mick Cooney, Atul Nautiyal, Scott Nowson.
 

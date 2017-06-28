@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "#9: MLDublin meets Microsoft @ Trinity Biomedical Sciences Institute,"
+title: "#9: MLDublin meets Microsoft @ Trinity Biomedical Sciences Institute"
 date: 2016-11-28 12:00
 categories: meeting report
 tags: [["2016"]]
 ---
-
-# Meetup #9: Microsoft at Trinity Biomedical
 
 Proudly sponsored by Microsoft.
 With talks from: Andrew Brock, Hani Amr, Debasis Ganguly, Haithem Afli

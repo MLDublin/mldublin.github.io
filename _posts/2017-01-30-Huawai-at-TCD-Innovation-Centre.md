@@ -6,8 +6,6 @@ categories: meeting report
 tags: [["2017"]]
 ---
 
-# Meetup #10: Huawei at TCD Innovation Centre
-
 Our first meetup of 2017 was hosted at the amazing space of TCD Innovation Centre sponsored to Huawei Ireland Research Center.
 Speaking we had: Andy Way, Abdelmonem Esraa Ali, Stephen Redmond
 
