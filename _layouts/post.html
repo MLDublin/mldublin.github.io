@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+<div class="post">
 {% if page.image and page.headerImage %}
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}
@@ -47,3 +47,5 @@ layout: page
 {% if site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
+
+</div>
