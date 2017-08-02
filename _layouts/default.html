@@ -54,5 +54,10 @@ layout: compress
     {% if site.analytics-google %}
         {% include analytics-google.html %}
     {% endif %}
+
+    {% if site.analytics-piwik-url %}
+        {% include analytics-piwik.html %}
+    {% endif %}
+
 </body>
 </html>
