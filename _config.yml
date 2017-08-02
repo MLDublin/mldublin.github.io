@@ -25,8 +25,8 @@ permalink: /events/:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
+analytics-piwik-url: 'piwik.adaptcentre.ie'
+analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
