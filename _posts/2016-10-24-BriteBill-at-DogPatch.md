@@ -1,25 +1,34 @@
 ---
-layout: post
-title: "#8: MLDublin meets Brite:Bill @ DogPath Labs Sciences Institute,"
+layout: event
+title: "#8: MLDublin meets Brite:Bill @ DogPatch Labs"
 date: 2016-10-24 12:00
 categories: meeting report
 tags: [["2016"]]
+talks:
+ - speaker: Humberto Corona
+   job: Data Scientist, Zalando
+   linkedin: humberto-corona-86394328
+   title: Evaluating Recommender Systems - Accuracy and Beyond
+   description:
+   links:
+     - slides: /assets/slides/meetup_8/2016-ML-Meetup.pdf
+   video:
+
+ - speaker: Gavin Guinane
+   job: Master Enterprise Architect, SalesForce
+   linkedin: guinane
+   title: ML Use Cases for CRM
+   description:
+   links:
+   video:
+
+ - speaker: Fergus Cooney
+   job: Software Engineer, CCI at UCD
+   linkedin: ferguscooney
+   title: "Project SureLook: Improving the Cybercrime Investigation Pipeline with Machine Learning"
+   description: "Advisory Note: This talk is not suitable for persons under 18 years of age."
+   links:
+   video:
 ---
 
-Sponsored by Brite:Bill in DogPath Labs with: Humberto Corona, Fergus Cooney, Gavin Guinane
-
-## Humberto Corona | Data Scientist, Zalando
-
-Evaluating Recommender Systems - Accuracy and Beyond
-
- - [slides](/assets/slides/meetup_8/2016-ML-Meetup.pdf)
-
-## Gavin Guinane | Master Enterprise Architect, SalesForce
-
-ML Use Cases for CRM
-
-## Fergus Cooney | Software Engineer, CCI at UCD
-
-Project SureLook: Improving the Cybercrime Investigation Pipeline with Machine Learning
-
-Advisory Note: This talk is not suitable for persons under 18 years of age.
+Sponsored by Brite:Bill in DogPatch Labs with: Humberto Corona, Fergus Cooney, Gavin Guinane
