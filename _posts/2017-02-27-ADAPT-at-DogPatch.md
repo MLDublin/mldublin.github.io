@@ -23,7 +23,7 @@ talks:
    job: Research Fellow, CONNECT Centre
    linkedin: ahmed-selim-a507131b
    title: "Turn Your Photograph into a Painting: the Power of Machine Learning"
-   description: Painting style transfer is very popular nowadays. The idea is relatively simple: you provide a machine with a photograph and the machine paints it for you. While this works well with generic scenes such as landscapes, it is very challenging when dealing with selfies and head portraits. In this talk, Dr Ahmed Selim from the CONNECT Centre in Trinity College Dublin will present a machine learning technique for style transfer that specializes in head portraits. The technique uses deep learning models to combine information about the identity of an individual with information from the style of an artist to produce a faithful head portrait.
+   description: "Painting style transfer is very popular nowadays. The idea is relatively simple: you provide a machine with a photograph and the machine paints it for you. While this works well with generic scenes such as landscapes, it is very challenging when dealing with selfies and head portraits. In this talk, Dr Ahmed Selim from the CONNECT Centre in Trinity College Dublin will present a machine learning technique for style transfer that specializes in head portraits. The technique uses deep learning models to combine information about the identity of an individual with information from the style of an artist to produce a faithful head portrait."
    links:
      - slides:
    video:
