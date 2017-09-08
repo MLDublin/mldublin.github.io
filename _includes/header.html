@@ -22,25 +22,31 @@
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>
+    </header>
         {% if page.title == "Home" %}
-            <h2 class="description">{{ site.bio }}</h2>
+    <div class="home-page">
 
+            <p>{{ site.bio }}</p>
+
+            <h2>Are details of past events published?</h2>
             <p>
-            You can find detail of past presentation along with slides where we have been given permission to publish them.
-            <a href="/events">past event</a>
-            </p>
+            You can find detail of past presentation, along with slides where we have been given permission to publish them, on the <a href="/events" class="styled-link">past event</a> page.</p>
+
+
+            <h2>How do I find out about future events?</h2>
             <p>
             future events will be posted on our meetup page.
             </p>
+    <div>
 
         {% endif %}
-
+    <div class="center">
         {% if site.meetup %}
             {% include meetup-link.html %}
         {% endif %}
 
         {% include social-links.html %}
-    </header>
+    </div>
 {% endif %}
 
 {% include nav.html %}
