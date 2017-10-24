@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#18 MLDublin meets First Data @ DogPatch Labs"
+title: "#18: MLDublin meets First Data @ DogPatch Labs"
 date: 2017-09-25 12:00
 categories: meeting report
 tags: [["2017"]]

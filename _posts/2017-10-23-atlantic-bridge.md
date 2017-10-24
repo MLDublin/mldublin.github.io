@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#19 MLDublin meets Atlantic Bridge @ DogPath Labs"
+title: "#19: MLDublin meets Atlantic Bridge @ DogPath Labs"
 date: 2017-10-23 12:00
 categories: meeting report
 tags: [["2017"]]
