@@ -103,6 +103,9 @@ jekyll-archives:
 plugins:
   - jekyll-feed
 
+feed:
+  path: feed.xml
+
 gems:
   - jekyll-seo-tag
   - jekyll-gist
