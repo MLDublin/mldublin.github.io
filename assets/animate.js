@@ -8,7 +8,6 @@ function setRandom (el) {
   var y = random(4000)
   var opacity = Math.random() / 2
   var scale = Math.pow(opacity * 4, 1.5)
-  console.log(`${opacity}, ${scale}`)
   el.setAttribute("style", "opacity: " + opacity + "; transform: translate(" + x + "px, " + y + "px) scale(" + scale + ", " + scale + " );")
 }
 
