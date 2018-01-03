@@ -32,5 +32,7 @@ talks:
    linkedin: conor-mcginn-7245b321
    title: Accelerating progress in robotics through competitions
    description: The space race was the first major engineering competition of the modern age; it resulted in massive technical progress and it made science accessible to the masses. In efforts to push the state of the art in robotics, its proposed that similarly inspired competitions offer a compelling way to advance the field. This talk will explore the important role that competitions are playing in modern robotics research, and will review progress being made to develop a competitive team here in Ireland.
+   links:
+    - slides: "/assets/slides/meetup_19/Accelerating progress in robotics through competitions.pdf"
 
 ---

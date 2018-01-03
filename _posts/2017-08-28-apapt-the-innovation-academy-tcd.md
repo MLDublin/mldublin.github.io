@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#17 MLDublin meets ADAPT @ The Innovation Acadmemy"
+title: "#17: MLDublin meets ADAPT @ The Innovation Acadmemy"
 date: 2017-08-28 12:00
 categories: meeting report
 tags: [["2017"]]
