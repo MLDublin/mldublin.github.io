@@ -27,8 +27,19 @@ layout: compress
     <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Open+Sans:300,400,600,700,300i,400i,600i,700i">
 </head>
 <body>
+{% if page.title == "Home"
+   or page.title == "Blog"
+   or page.title == "Past Events"
+   or page.title == "Projects"
+   or page.title == "Tags"
+   or page.type == "year"
+%}{% assign showHeader = true %}{% endif %}
+{% if showHeader == true %}
+    {% include animated_logo.html %}
+{% endif %}
 
-    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
+{% include nav.html %}
+    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}  {% if showHeader %}show-header{% endif %}">
         {% if page.tag %}
             <div class="post">
         {% else %}

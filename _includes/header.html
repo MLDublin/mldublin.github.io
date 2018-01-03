@@ -1,5 +1,6 @@
 {% if page.title == "Home"
    or page.title == "Blog"
+   or page.title == "Past Events"
    or page.title == "Projects"
    or page.title == "Tags"
    or page.type == "year"
@@ -9,7 +10,6 @@
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.logo-url %}
             <a class="link" href="{{ site.logo-url }}">
-                <img class="selfie" alt="{{ site.name }}" src="{{ site.picture }}" />
             </a>
         {% elsif site.about %}
             <a class="link" href="{{ site.url }}">
@@ -47,4 +47,3 @@
     </div>
 {% endif %}
 
-{% include nav.html %}

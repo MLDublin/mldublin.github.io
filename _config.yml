@@ -1,4 +1,3 @@
-# main text of home
 name: Machine Learning Dublin
 bio: This is a last-Monday-of-the-month meetup group open to professionals and students interested in Machine Learning in any of its forms. There are presentations by selected guest speakers on different topics, and networking.
 
@@ -74,6 +73,12 @@ projects: false
 about: false
 blog: false
 
+nav:
+  - title: Home
+    url: /
+  - title: Past Events
+    url: /events
+
 # do you want to show the "read time" of the posts?
 read-time: true
 
@@ -90,7 +95,7 @@ post-advance-links: [blog]
 # show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 jekyll-archives:
   enabled: [year]

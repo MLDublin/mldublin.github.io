@@ -5,6 +5,7 @@ body
   line-height: 1
   font: 16px $fontSans
   color: $alpha
+  position: relative
 
 h1, h2, h3, h4
   font-family: $fontSans
@@ -120,6 +121,10 @@ pre
   height: 100%
   width: 96%
   margin: 0 auto
+  padding-top: 64px
+
+  &.show-header
+    padding-top: 320px
 
   @media #{$mobile}
     width: 88%
@@ -135,3 +140,7 @@ pre
 
 .center
   text-align: center
+
+nav
+  .wrapper-normal, .wrapper-large
+    padding-top: 0
