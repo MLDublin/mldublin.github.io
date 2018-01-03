@@ -36,3 +36,5 @@ talks:
     - slides: "/assets/slides/meetup_19/Accelerating progress in robotics through competitions.pdf"
 
 ---
+
+For #19 we organised the event with Atlantic Bridge Ventures. We covered how NLP is made approachable for industry by AYLIEN, neural machine translation for Farsi and morphologically rich langauges, an intor to PyTorch, and look into the world of robotics competitions.
