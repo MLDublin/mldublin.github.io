@@ -15,7 +15,7 @@ function setRandom (el) {
 function setOrigin (el) {
   setTimeout(function () {
     el.setAttribute("style", "")
-  } , Math.round(Math.random() * 5000))
+  } , Math.round(Math.random() * 15000))
 }
 
 function scatter (nodes) {
@@ -41,4 +41,4 @@ if ((today !== lastAnimated)){// || (location.pathname == '/')) {
   animate()
 }
 
-
+animate()
