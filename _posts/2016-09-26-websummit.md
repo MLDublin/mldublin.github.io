@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#7 MLDublin meets @ Web Summit"
+title: "#7: MLDublin meets @ Web Summit"
 date: 2016-09-26 12:00
 categories: meeting report
 tags: [["2016"]]

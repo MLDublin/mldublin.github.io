@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#6 MLDublin meets Deutsche Bank @ DogPatch Labs"
+title: "#6: MLDublin meets Deutsche Bank @ DogPatch Labs"
 date: 2016-08-29 12:00
 categories: meeting report
 tags: [["2016"]]

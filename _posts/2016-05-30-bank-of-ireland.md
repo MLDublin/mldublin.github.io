@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#4 MLDublin meets @ Bank of Ireland"
+title: "#4: MLDublin meets @ Bank of Ireland"
 date: 2016-05-30 12:00
 categories: meeting report
 tags: [["2016"]]
