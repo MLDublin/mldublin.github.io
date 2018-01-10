@@ -1,115 +1,63 @@
+---
+title: Ml Dublin.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Machine Learning Dublin
-bio: This is a last-Monday-of-the-month meetup group open to professionals and students interested in Machine Learning in any of its forms. There are presentations by selected guest speakers on different topics, and networking.
-
-# twitter summary info
-description: A meetup group open to professionals and students interested in Machine Learning in any of its forms
+bio: This is a last-Monday-of-the-month meetup group open to professionals and students
+  interested in Machine Learning in any of its forms. There are presentations by selected
+  guest speakers on different topics, and networking.
+description: A meetup group open to professionals and students interested in Machine
+  Learning in any of its forms
 notice: Machine Learning Dublin is an initiative of the ADAPT&nbsp;Centre for Digital&nbsp;Content&nbsp;Technology
-# if it's an external image, update below for true
-# better with square images
-picture: /assets/images/mld_logo.png
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
+picture: "/assets/images/mld_logo.png"
 resume: false
 resume-external: true
 resume-url: https://adaptcentre.ie
-
 url: https://mldublin.github.io
-logo-url: / # https://meetup.com/Machine-Learning-Dublin
-# your url: http://USERNAME.github.io
-
-permalink: /events/:title/
-
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
-
-# To enable piwik tracking, supply your url & site ID below
-analytics-piwik-url: 'piwik.adaptcentre.ie'
+logo-url: "/"
+permalink: "/events/:title/"
+analytics-piwik-url: piwik.adaptcentre.ie
 analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
+  shortname: mydisqus
+  categories: []
 meetup: Machine-Learning-Dublin
-# facebook: myfacebook
 twitter: dublinML
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
 linkedin: groups/8449243
-# youtube: myyoutube
-# spotify: myspotify
 github: MLDublin
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
 email: mldublin@adaptcentre.ie
-
-authors:
-    # johndoe:
-    #     name: John Doe
-    #     bio: A Man who travels the world eating noodles
-    #     external-image: false
-    #     picture: assets/images/profile.jpg
-    #     twitter: johndoe
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
+authors: 
 width: normal
-
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-# if you don't need projects, comment the *projects* configs below
-
 projects: false
 about: false
 blog: false
-
 nav:
-  - title: Home
-    url: /
-  - title: Past Events
-    url: /events/
-
-# do you want to show the "read time" of the posts?
+- title: Home
+  url: "/"
+- title: Past Events
+  url: "/events/"
 read-time: true
-
-# do you want to show the "tags" inside the posts?
 show-tags: true
-
-# related posts inside a post?
 related: true
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
-# show-author: true
-
-# do you want some animations?
+post-advance-links:
+- blog
 animation: false
-
 jekyll-archives:
-  enabled: [year]
-
+  enabled:
+  - year
 plugins:
-  - jekyll-feed
-
+- jekyll-feed
 feed:
   path: feed.xml
-
 gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-archives
-
+- jekyll-seo-tag
+- jekyll-gist
+- jekyll-archives
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
