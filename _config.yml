@@ -102,6 +102,7 @@ jekyll-archives:
 
 plugins:
   - jekyll-feed
+  - jekyll-admin
 
 feed:
   path: feed.xml
@@ -110,6 +111,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-archives
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
