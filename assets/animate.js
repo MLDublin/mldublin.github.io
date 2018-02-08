@@ -40,5 +40,3 @@ if ((today !== lastAnimated)){// || (location.pathname == '/')) {
   localStorage.setItem('animated', today)
   animate()
 }
-
-animate()
