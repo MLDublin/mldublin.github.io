@@ -29,4 +29,4 @@ talks:
 
 We were really pleased to have The Analytics Store as sponsor for our second meetup of 2018. The Analytics Store's Brian MacNamee and Aoife D'Arcy together with Souleiman Hasan from NUIM School of Business and Hamilton Institute will be our presented.
 
-Here are the [slides](assets/slides/meetup_22/The Analytics Store Intro.pdf) Aoife presented at the start of the event.
+Here are the [slides](/assets/slides/meetup_22/The Analytics Store Intro.pdf) Aoife presented at the start of the event.
