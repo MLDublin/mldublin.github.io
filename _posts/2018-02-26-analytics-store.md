@@ -16,7 +16,7 @@ talks:
   linkedin: aoife-d-arcy-7a276612
   title: Synthetic Data Generation
   links:
-  - slides: assets/slides/meetup_22/The Analytics Store - Sythethic Data Generation.pdf
+  - slides: /assets/slides/meetup_22/The Analytics Store - Sythethic Data Generation.pdf
 - speaker: Souleiman Hasan
   job: Lecturer, Maynooth University, School of Business and Hamilton Institute
   linkedin: souleimanhasan
