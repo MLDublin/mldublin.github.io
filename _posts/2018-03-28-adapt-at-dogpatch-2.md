@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#23: MLDublin meets ADAPT"
+title: "#23: MLDublin meets ADAPT @ DogPatch Labs"
 date: 2018-03-26 12:00
 categories: meeting report
 tags: [["2018"]]
