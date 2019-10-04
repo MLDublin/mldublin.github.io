@@ -31,12 +31,16 @@ layout: page
     {% if talk.speaker %}
       <span class="talk-details--name" id="{{ talk.speaker | cgi_escape}}">{{ talk.speaker }}</span>
       {% if talk.job %}
-        <span class="talk-details--job">{{ talk.job}}</span>
+        <span class="talk-details--job">{{talk.job}}</span>
       {% endif %}
       <div class="social-links">
-        {% if talk.linkedin %}
-        <a class="link" data-title="LinkedIn: {{talk.speaker}}" href="https://ie.linkedin.com/in/{{talk.linkedin}}" target="_blank"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a>
+        {% for linkedin in talk.linkedin %}
+        {% if linkedin.first %}
+        <a class="link" data-title="LinkedIn: {{linkedin.name}}" href="https://ie.linkedin.com/in/{{linkedin.link}}" target="_blank"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a>
+        {% else %}
+        <a class="link" data-title="LinkedIn: {{talk.speaker}}" href="https://ie.linkedin.com/in/{{linkedin}}" target="_blank"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a>
         {% endif %}
+        {% endfor %}
       </div>
 
     {% elsif talk.speakers %}

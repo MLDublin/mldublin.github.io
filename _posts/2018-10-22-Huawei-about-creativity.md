@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#30: MLDublin meets Hauawei about Creativity"
+title: "#30: MLDublin meets Hauawei to talk about Creativity"
 date: 2018-10-22 12:00
 categories: meeting report
 tags: [["2018"]]

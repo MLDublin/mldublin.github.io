@@ -8,18 +8,18 @@ tags:
 - '2017'
 layout: event
 talks:
-- speakers:
-  - speaker: Deirdre Hogan
-    job: Applied Scientist, LinkedIn
-    linkedin: deirdreh
-  - speaker: Majid Yazdani
-    job: Scientist, LinkedIn
-    linkedin: majid-yazdani-a9032011
+- speaker: Deirdre Hogan & Majid Yazdani
+  job: Applied Scientist & Scientist, LinkedIn
+  linkedin:
+  - name: Deirdre Hogan
+    link: deirdreh
+  - name: Majid Yazdani
+    link: majid-yazdani-a9032011
   title: Entity Linking - Unsupervised methods for tagging news articles with knowledge
     base entities
-  description: 
-  links: 
-  video: 
+  description:
+  links:
+  video:
 - speaker: Ahmed Selim
   job: Research Fellow, CONNECT Centre
   linkedin: ahmed-selim-a507131b
@@ -34,8 +34,8 @@ talks:
     of an individual with information from the style of an artist to produce a faithful
     head portrait.'
   links:
-  - slides: 
-  video: 
+  - slides:
+  video:
 - speaker: Chris Hokamp
   job: PhD Candidate, ADAPT Centre
   linkedin: chris-hokamp-a7844049
@@ -46,8 +46,8 @@ talks:
     incorporate at training time. In this talk, I'll discuss my recent work on structured
     search for models that output sequences, and propose a general method for constraining
     search when it makes sense to do so.
-  links: 
-  video: 
+  links:
+  video:
 ---
 
 We were thrilled to be back at DogPatch labs.
