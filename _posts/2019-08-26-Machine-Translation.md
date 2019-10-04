@@ -7,7 +7,7 @@ tags: [["2019"]]
 talks:
 - speaker: Chao-Hong Liu
   job: Post Doctoral Researcher, ADAPT, DCU
-  linkedin:
+  linkedin: chao-hong-liu-2861a627
   title: Machine Translation for Low Resource Languages
   description: In this talk we will be reviewing several approaches which have been proposed to build machine translation (MT) systems for low resource language pairs. We will also give a summary of these methods and how they perform in specific language pairs.
   links:
