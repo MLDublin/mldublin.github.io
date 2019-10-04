@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#39: MLDublin meets about to talk Machine Translation"
+title: "#39: MLDublin meets to talk about Machine Translation"
 date: 2019-08-29 12:00
 categories: meeting report
 tags: [["2019"]]
