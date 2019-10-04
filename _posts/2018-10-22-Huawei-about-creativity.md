@@ -8,10 +8,10 @@ talks:
 - speaker: Róisín Loughran
   job: Senior Researcher UCD
   linkedin: roisin-loughran-13b0ba24
-  title: ""
+  title: "Can Machines Be Creative?"
   description: ""
   links:
-  - slides: "/assets/slides/meetup_30/"
+  - slides: "/assets/slides/meetup_30/MLDublin_Loughran.pdf"
 - speaker: Eric Risser
   job: CTO & Founder Artomatix
   linkedin: eric-risser-b9493144
@@ -25,5 +25,5 @@ talks:
   title: ""
   description: ""
   links:
-  - slides: "/assets/slides/meetup_30/"
+  - slides: "/assets/slides/meetup_30/Luba_Elliott.pdf"
 ---
