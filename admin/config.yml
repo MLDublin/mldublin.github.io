@@ -1,0 +1,30 @@
+# config.yml
+
+backend:
+  name: github
+  repo: mldublin/mldublin.github.io
+  branch: master # Branch to update (optional; defaults to master)
+  base_url: https://auth.mtthw.xyz
+media_folder: 'assets/slides'
+collections:
+  - name: 'Events'
+    label: 'Events'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - label: 'Talks'
+        name: 'talks'
+        widget: 'list'
+        fields:
+          - {label: "Speaker", name: "speaker", widget: "string"}
+          - {label: "Job Title", name: "job", widget: "string"}
+          - {label: "LinkedIn", name: "linkedin", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
