@@ -20,4 +20,4 @@ talks:
     description: In an era dominated by transformative technologies, large language models have emerged as a fascinating breakthrough, revolutionizing the way we interact with information and generating novel possibilities for human creativity and problem-solving. This exciting talk explores the remarkable potential of large language models to unlock chains of thought, paving the way for unprecedented advancements in various domains.
 --- 
 This event was held at on Monday 29th May at Accenture The Dock, 7 Hanover Quay.
-The slides from the talks are available [Here](assets/slides/meetup_53/MLDublinMeetsAccenture.pdf)
+The slides from the talks are available [Here](/assets/slides/meetup_53/MLDublinMeetsAccenture.pdf)
